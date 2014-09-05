@@ -1,0 +1,7 @@
+name=hessling/zregina
+link=dynamic
+load=no
+
+autobins="zregina"
+
+objects="zregina.o"
